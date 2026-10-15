@@ -99,7 +99,7 @@
       "id": "snow-depth" ,
       "name": "Snow Depth",
       "tiles": [
-        "https://mapservices.weather.noaa.gov/raster/rest/services/snow/NOHRSC_Snow_Analysis/MapServer/export?bbox=-14000000,2800000,-7000000,6500000&bboxSR=3857&imageSR=3857&size=1000,529&format=png32&transparent=true&layers=show:0&f=image"
+        "https://mapservices.weather.noaa.gov/raster/rest/services/snow/NOHRSC_Snow_Analysis/MapServer/export?bbox={bbox-epsg-3857}&bboxSR=3857&imageSR=3857&size=256,256&format=png32&transparent=true&layers=show:0&f=image"
       ],
       "maxzoom": 12,
       "opacity": 0.9, 
