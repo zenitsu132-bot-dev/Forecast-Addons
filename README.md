@@ -1,6 +1,6 @@
 # Forecast Add-ons
 
-A plugin for [Storm Central](https://github.com/KingCreeper531/StormCentral) that adds extra weather layers to the Radar and Air maps. It is a single JSON file with no code, so it only adds map layers and can't run anything on your device.
+A plugin for [Storm Central](https://github.com/KingCreeper531/StormCentral) that adds extra weather layers to the Radar and Air maps. It is a single JSON file with no code, so it only adds map layers and can't run anything on your device this plugin is all open source. Feel free to inspect the code yourself.
 
 # Layers
 
