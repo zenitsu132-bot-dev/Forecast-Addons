@@ -3,7 +3,7 @@
   "name": "Forecast Add-ons",
   "author": "Zenitsu132",
   "description": "Adds extra forecast layers to the map whenever you turn it on.",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "layers": [
     {
       "type": "raster",
