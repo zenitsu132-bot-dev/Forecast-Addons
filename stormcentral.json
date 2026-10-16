@@ -96,18 +96,6 @@
     },
     {
       "type": "raster",
-      "id": "snow-depth" ,
-      "name": "Snow Depth",
-      "tiles": [
-        "https://mapservices.weather.noaa.gov/raster/rest/services/snow/NOHRSC_Snow_Analysis/MapServer/export?bbox={bbox-epsg-3857}&bboxSR=3857&imageSR=3857&size=256,256&format=png32&transparent=true&layers=show:0&f=image"
-      ],
-      "maxzoom": 12,
-      "opacity": 0.9, 
-      "visible": false,
-      "attribution": "Snow Depth: NOAA/NWS NOHRSC"
-    },
-    {
-      "type": "raster",
       "id": "flash-flood-day1",
       "name": "Flash Flooding Possible (Day 1)",
       "tiles": [
